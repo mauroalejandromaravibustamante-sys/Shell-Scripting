@@ -7,7 +7,7 @@
 # Profesor: Gonzales Guevara Rommel Andrés
 
 # Alumno:
-Patiño Gómez, Roland 
-Maravi Bustamante, Mauro
+# Patiño Gómez, Roland 
+# Maravi Bustamante, Mauro
 
 
