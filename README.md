@@ -4,8 +4,10 @@
 
 # TÍTULO: SHELL SCRIPTING
 
-Profesor: Gonzales Guevara Rommel Andrés
+# Profesor: Gonzales Guevara Rommel Andrés
 
-Alumno:
+# Alumno:
 Patiño Gómez, Roland 
 Maravi Bustamante, Mauro
+
+
